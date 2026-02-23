@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: RaidCopy
+## Notes: Raid roster copy tool
+
+RaidCopy.lua
